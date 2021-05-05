@@ -1,4 +1,4 @@
-# QFileSystemWatcher_Example
+# Example for QFileSystemWatcher
 
 This an example how to use QFileSystemWatcher to watch the changes of a folder.
 
